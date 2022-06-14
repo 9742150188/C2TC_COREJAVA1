@@ -5,7 +5,7 @@ public class ExEnum {
 	  SUNDAY,MONDAY,TUESDAY,WEDNESDAY,THURSDAY, FRIDAY,SATURDAY
   }
   public static void main(String[] args) {
-	  Day day = Day.FRIDAY;
+	  Day day = Day.MONDAY;
 	  switch(day) {
 	  case SUNDAY:
 	  System.out.println("moving towards monday");
